@@ -103,16 +103,20 @@ div.footer{
   font-size: 10px;
   text-align: center;
   opacity: 0.9;
-  padding-top: 10px;
-  padding-bottom: 0px;
-  position: fixed;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: whitegrey;
+  text-align: center;
 }
 p.footer{
   font-size: 12px;
 }
 
 /* Style background image source*/
-div.backimage {
+div.source {
   font-size: 10px;
   color:grey;
 }
