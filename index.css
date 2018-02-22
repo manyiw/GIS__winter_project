@@ -18,7 +18,7 @@ html {
 
 /* Style the headers */
 h1 {
-  font-size: 48px;
+  font-size: 40px;
   text-align: center;
 }
 
@@ -31,7 +31,7 @@ h2 {
 
 /* Style cta*/
 a.cta {
-  font-size: 14px;
+  font-size: 18px;
   text-align: center;
   cursor: pointer;
   background: 
@@ -107,7 +107,7 @@ div.footer{
   position: fixed;
 }
 p.footer{
-  font-size: 10px;
+  font-size: 12px;
 }
 
 /* Style background image source*/
