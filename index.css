@@ -26,7 +26,6 @@ h1 {
 h2 {
   font-size: 20px;
   text-align: center;
-  
 }
 
 /* Style cta*/
@@ -34,7 +33,7 @@ a.cta {
   font-size: 18px;
   text-align: center;
   cursor: pointer;
-  background: 
+  
     background-image: initial;
     background-position-x: 0px;
     background-position-y: 0px;
@@ -46,18 +45,17 @@ a.cta {
     background-clip: initial;
     background-color: initial;
   width: initial;
-  padding: 
+  
     padding-top: 1.452vh;
     padding-right: 2.96vw;
     padding-bottom: 1.452vh;
     padding-left: 2.96vw;
-  border-radius:
+  
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
     border-bottom-right-radius: 40px;
     border-bottom-left-radius: 40px;
-  color: white;
-  border: 
+  
     border-top-color: rgb(18, 20, 22);
     border-top-style: solid;
     border-top-width: 1px;
@@ -75,13 +73,13 @@ a.cta {
     border-image-width: initial;
     border-image-outset: initial;
     border-image-repeat: initial;
-  transition:
+  
     transition-property: all;
     transition-duration: 0.2s;
     transition-timing-function: ease-in-out;
     transition-delay: initial;
   display: inline-block;
-  margin: 
+  
     margin-top: 0px;
     margin-right: 0px;
     margin-bottom: 0px;
