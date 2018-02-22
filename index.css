@@ -101,7 +101,6 @@ p {
 div.footer{
   color:grey;
   font-size: 10px;
-  text-align: center;
   opacity: 0.9;
   position: absolute;
   right: 0;
@@ -109,9 +108,9 @@ div.footer{
   left: 0;
   padding: 1rem;
   background-color: whitegrey;
-  text-align: center;
 }
 p.footer{
+  text-align: center;
   font-size: 12px;
 }
 
