@@ -8,7 +8,7 @@ body {
 }
 
 html { 
-  background: url("ohttps://25910-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2015/08/Great-Wall-29.jpg") no-repeat center center fixed; 
+  background: url("https://25910-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2015/08/Great-Wall-29.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -111,7 +111,7 @@ div.footer{
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 20px;
+  padding: 10px;
   background-color: #336600;
 }
 p.footer{
