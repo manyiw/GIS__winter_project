@@ -32,6 +32,7 @@ h2 {
 a.cta {
   position: relative;
   font-size: 18px;
+  color: white;
   text-align: center;
   cursor: pointer;
   background-image: initial;
@@ -43,7 +44,7 @@ a.cta {
   background-attachment: initial;
   background-origin: initial;
   background-clip: initial;
-  background-color: whitesmoke;
+  background-color: #336600;
   width: initial;
   padding-top: 1.452vh;
   padding-right: 2.96vw;
@@ -96,7 +97,7 @@ p {
 
 /* Style the footer*/
 div.footer{
-  color:grey;
+  color:white;
   font-size: 10px;
   opacity: 0.9;
   position: absolute;
@@ -104,7 +105,7 @@ div.footer{
   bottom: 0;
   left: 0;
   padding: 0.1rem;
-  background-color: whitesmoke;
+  background-color: #336600;
 }
 p.footer{
   text-align: center;
