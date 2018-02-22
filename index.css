@@ -9,6 +9,14 @@ body {
   background-attachment: fixed;
 }
 
+html { 
+  background: url(http://www.forestry.gov.cn/uploadfile/main/2017-8/image/2017-8-21-794a726d8a5246cc9a465185f2687bef.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 /* Style the headers */
 h1 {
   font-size: 48px;
