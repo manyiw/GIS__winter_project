@@ -4,9 +4,6 @@
 
 body {
   margin: 0 10%;
-  background-image:url("http://www.forestry.gov.cn/uploadfile/main/2017-8/image/2017-8-21-794a726d8a5246cc9a465185f2687bef.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
 html { 
@@ -31,7 +28,7 @@ h2 {
 }
 
 /* Style cta*/
-cta {
+class.cta {
   font-size: 14px;
   text-align: center;
   cursor: pointer;
