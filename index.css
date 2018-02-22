@@ -1,0 +1,41 @@
+* {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0 10%;
+  background-image:url("http://www.forestry.gov.cn/uploadfile/main/2017-9/image/2017-9-8-e12ead1277824081b5006532f0c64e0c.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Style the headers */
+h1{
+  font-size: 53px;
+}
+
+/* Style the font size*/
+p {
+  font-size: 18px;
+  margin: 15px;
+  padding: 15px;
+}
+
+/* Style the footer*/
+div.footer{
+  color:grey;
+  font-size: 12px;
+  text-align:center;
+  opacity:0.9;
+  background:whitesmoke;
+}
+
+p.footer {
+  font-size: 14px;
+}
+
+/* Style background image source*/
+div.backimage {
+  font-size: 10px;
+  color:grey;
+}
