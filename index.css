@@ -29,7 +29,7 @@ h2 {
 }
 
 /* Style cta*/
-class.cta {
+a.cta {
   font-size: 14px;
   text-align: center;
   cursor: pointer;
