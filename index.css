@@ -7,7 +7,7 @@ body {
 }
 
 html { 
-  background: url(http://www.forestry.gov.cn/uploadfile/main/2017-8/image/2017-8-21-794a726d8a5246cc9a465185f2687bef.jpg) no-repeat center center fixed; 
+  background: url("https://www.nationalgeographic.com/travel/destinations/asia/china/places-to-see-giant-panda-china-nature-reserve.html") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -100,7 +100,9 @@ div.footer{
   font-size: 12px;
   text-align: center;
   opacity: 0.9;
-  background: whitesmoke;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  position: fixed;
 }
 
 /* Style background image source*/
