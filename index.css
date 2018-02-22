@@ -90,7 +90,7 @@ class.cta {
     
 /* Style the font size*/
 p {
-  font-size: 18px;
+  font-size: 14px;
   margin: 15px;
   padding: 15px;
 }
@@ -98,12 +98,15 @@ p {
 /* Style the footer*/
 div.footer{
   color:grey;
-  font-size: 12px;
+  font-size: 10px;
   text-align: center;
   opacity: 0.9;
   padding-top: 10px;
   padding-bottom: 0px;
   position: fixed;
+}
+p.footer{
+  font-size: 10px;
 }
 
 /* Style background image source*/
