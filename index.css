@@ -108,10 +108,11 @@ div.footer{
   font-size: 10px;
   opacity: 0.9;
   position: absolute;
+  left: 0;
   right: 0;
   bottom: 0;
-  left: 0;
   background-color: #336600;
+  height: 50px;
 }
 p.footer{
   text-align: center;
